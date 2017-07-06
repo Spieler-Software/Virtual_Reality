@@ -1,2 +1,1 @@
-# Virtual_Reality
-Präsentation VR Allgemein
+# Virtual Reality
