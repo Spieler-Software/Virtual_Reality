@@ -1,4 +1,4 @@
-# Virtual Reality
+﻿# Virtual Reality
 
 Launch Slide: https://web.archive.org/web/20170105051847/https://unity3d.com/
 --> License free images + videos?
@@ -30,3 +30,5 @@ http://blog.ventureradar.com/2015/10/07/25-virtual-reality-use-cases-and-their-l
 
 * 3D Ansicht von CAD Modellen
   * Beispielsoftware --> Namen und Screenshots anfordern
+
+Apple: 100 Millionen für AR Firma http://www.businessinsider.de/apple-bereitet-sich-auf-den-tod-des-iphones-vor-2017-7
